@@ -33,6 +33,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+<br>
 <img align="right" width=400px src="https://github.com/user-attachments/assets/aaca9078-2a1d-4ed4-9766-91e901eea206"/>
 
 ###### Frontend Development:
