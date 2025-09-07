@@ -70,6 +70,6 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-<img width=500 src="https://github.com/user-attachments/assets/8ecf5cb5-2c69-48fc-9019-21166ce492a3" />
+<img width=550 src="https://github.com/user-attachments/assets/483718b8-f6a9-4b8d-bb00-936b503c7293" />
 </p>
 <img src="https://github.com/user-attachments/assets/81298150-b068-4f5d-bd92-9ce40ff84738" width="100%">
