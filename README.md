@@ -72,4 +72,5 @@
 <p align="center">
 <img width=550 src="https://github.com/user-attachments/assets/483718b8-f6a9-4b8d-bb00-936b503c7293" />
 </p>
+<p align="center"><b><i>Hesitation is Defeat</i></b></p>
 <img src="https://github.com/user-attachments/assets/81298150-b068-4f5d-bd92-9ce40ff84738" width="100%">
