@@ -46,7 +46,7 @@
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suchxs&theme=dark" alt="suchxs" />
+<img align="right" width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=suchxs&theme=dark" alt="suchxs" />
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
